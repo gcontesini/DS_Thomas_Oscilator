@@ -24,21 +24,27 @@ for the Lyapunov calculation a $\delta=1e^{-6}$ was add to the original IC.
 
 ## Results 
 
-![original Thomas attractor]("url here")
+![original Thomas attractor](https://github.com/gcontesini/Thomas_Oscilator/blob/master/thomas_oscilator_attractor.png)
 
-![x ts]("url here")
+![x ts](https://github.com/gcontesini/Thomas_Oscilator/blob/master/thomas_oscilator_x_ts.png)
 
-![y ts]("url here")
+![y ts](https://github.com/gcontesini/Thomas_Oscilator/blob/master/thomas_oscilator_y_ts.png)
 
-![z ts]("url here")
+![z ts](https://github.com/gcontesini/Thomas_Oscilator/blob/master/thomas_oscilator_z_ts.png)
 
-![Lyapunov Exponent]("url here")
+**!!WRONG!!**
+
+![Lyapunov Exponent](https://github.com/gcontesini/Thomas_Oscilator/blob/master/thomas_oscilator_lyapunov_exp.png) 
+
+**!!WRONG!!**
 
 With a lyapunov exponent of 0.0208616 and a Lyapunov time of  the system is deterministic and not stochastic.
 
 ## Kolmogorov Entropy
 
+
 To Do
+
 
 ## Taken's Theorem
 
